@@ -1,0 +1,4 @@
+﻿  lab7_2_rec.cpp
+D:\Student\lab7.2_rec\lab7.2_rec\lab7_2_rec.cpp(49): warning C4715: Min: значение возвращается не при всех путях выполнения
+D:\Student\lab7.2_rec\lab7.2_rec\lab7_2_rec.cpp(67): warning C4715: Max: значение возвращается не при всех путях выполнения
+  lab7.2_rec.vcxproj -> D:\Student\lab7.2_rec\Debug\lab7.2_rec.exe
